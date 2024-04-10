@@ -1,0 +1,15 @@
+[metadata]
+name        = BritishTrainSoundsLMS
+shortname   = BTS4
+version     = 1.0.0
+palette     = 
+description = BritishTrainSoundsLMS sound set. A sound pack for trains whistles and horns to sound like the British LMS Hooter Whistle and BR Diesels. Also replaces railway crossing sound with accurate sound of the crossing lights in the UK. All sounds by me as I have recorded them myself, Merchello.
+
+[files]
+samples = sample4.cat
+
+[md5s]
+sample4.cat = 9ebf48e5d6611dd86c6ced4c978a9a59
+
+[origin]
+default = Over the internet
