@@ -1,0 +1,15 @@
+[metadata]
+name        = BritishTrainSoundsGWR
+shortname   = BTS3
+version     = 1.0.0
+palette     = Windows
+description = BritishTrainSoundsGWR sound set. A sound pack for trains whistles and horns to sound like the British GWR Hall Whistle and BR Diesels. Also replaces railway crossing sound with accurate sound of the crossing lights in the UK. All sounds by me as I have recorded them myself, Merchello.
+
+[files]
+samples = sample3.cat
+
+[md5s]
+sample3.cat = f3960482fd9c8fe62b9b9cfb5994ca59
+
+[origin]
+default = Over the internet

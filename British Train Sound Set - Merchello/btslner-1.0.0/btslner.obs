@@ -1,0 +1,15 @@
+[metadata]
+name        = BritishTrainSoundsLNER
+shortname   = BTS1
+version     = 1.0.0
+palette     = Windows
+description = BritishTrainSoundsLNER sound set. A sound pack for trains whistles and horns to sound like the British LNER A4 Chime Whistle and BR Diesels. Also replaces railway crossing sound with accurate sound of the crossing lights in the UK. All sounds by me as I have recorded them myself, Merchello.
+
+[files]
+samples = sample1.cat
+
+[md5s]
+sample1.cat = f46fb08f6182fa4b13384b5550168837
+
+[origin]
+default = Over the internet
